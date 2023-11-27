@@ -1,0 +1,15 @@
+.table {
+  border: 1px black;
+}
+.cosm-img {
+  max-width: 100px;
+}
+.details-img {
+  max-width: 400px;
+}
+.error {
+  color: red;
+}
+.success{
+  color: green;
+}
